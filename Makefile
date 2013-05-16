@@ -24,7 +24,6 @@ Version:        $(VERSION)
 Release:        1%{?dist}
 Summary:        C macros for hash tables and more.
 License:        BSD revised
-Packager:       Tobias Schlager <schlagert@github.com>
 Source:         uthash-$(VERSION).tar.gz
 Url:            http://troydhanson.github.com/uthash/
 
